@@ -1,1 +1,20 @@
-
+{
+  "hacker-core": {
+    "type": "git",
+    "family": "github",
+    "url": "uzytkownik/hacker-core.git"
+  },
+  "shell-utils": {
+    "type": "git",
+    "family": "gitlab",
+    "url": "uzytkownik/shell-utils.git"
+  },
+  "hacker-os-web": {
+    "type": "tar",
+    "url": "https://github.com/HackerOS-Linux-System/HackerOS-Website/archive/refs/tags/v4.5.tar.gz"
+  },
+  "apt-frontend": {
+    "type": "link",
+    "url": "https://github.com/HackerOS-Linux-System/Hacker-CLI-Tool/releases/download/v2.4/apt-frontend"
+  }
+}
