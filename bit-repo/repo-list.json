@@ -1,20 +1,22 @@
 {
-  "hacker-core": {
-    "type": "git",
-    "family": "github",
-    "url": "uzytkownik/hacker-core.git"
+  "obsidian": {
+    "url": "https://github.com/bit-io/obsidian.git",
+    "type": "rust"
   },
-  "shell-utils": {
-    "type": "git",
-    "family": "gitlab",
-    "url": "uzytkownik/shell-utils.git"
+  "tui": {
+    "url": "https://github.com/bit-io/tui.git",
+    "type": "hl"
   },
-  "hacker-os-web": {
-    "type": "tar",
-    "url": "https://github.com/HackerOS-Linux-System/HackerOS-Website/archive/refs/tags/v4.5.tar.gz"
+  "regex": {
+    "url": "https://github.com/bit-io/regex.git",
+    "type": "hl"
   },
-  "apt-frontend": {
-    "type": "link",
-    "url": "https://github.com/HackerOS-Linux-System/Hacker-CLI-Tool/releases/download/v2.4/apt-frontend"
+  "toml-parser": {
+    "url": "https://github.com/bit-io/toml-parser.git",
+    "type": "hl"
+  },
+  "json-parser": {
+    "url": "https://github.com/bit-io/json-parser.git",
+    "type": "hl"
   }
 }
